@@ -1,0 +1,3 @@
+[submodule "src/levenshtein.c"]
+	path = src/levenshtein.c
+	url = https://github.com/JanLikar/levenshtein.c.git
