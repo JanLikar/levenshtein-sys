@@ -1,2 +1,2 @@
 # levenshtein-sys
-A thin wrapper around a C library
+A thin Rust wrapper around the `levenshtein.c` C library. It was made for learning purposes.
